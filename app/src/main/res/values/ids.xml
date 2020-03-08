@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="appodeal_media_view_content" type="id" />
+    <item name="b_cta" type="id" />
+    <item name="tv_description" type="id" />
+    <item name="tv_title" type="id" />
+    <item name="nativeview" type="id" />
+    <item name="provider_view" type="id" />
+</resources>
