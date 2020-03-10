@@ -56,7 +56,6 @@ public class MainActivity extends AppCompatActivity {
             int count = 1;
             public void onClick(View view) {
                  if (count <= 5) {
-                     Toast.makeText(getApplicationContext(), "BANNER was clicked " + count + "times", Toast.LENGTH_SHORT).show();
                      Appodeal.show(MainActivity.this, Appodeal.BANNER_VIEW);
                      count++;
                  }
